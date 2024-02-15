@@ -1,4 +1,4 @@
-Netflix Skip
+Netflix Time Machine
 ===============
 
 A lightweight browser extension that takes back your time on Netflix. No more waiting for the next episode or seeing the intro yet again!
