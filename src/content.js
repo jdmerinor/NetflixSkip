@@ -18,16 +18,8 @@ const bodyObserver = new MutationObserver(mutations => {
                 const skipButton = node.querySelector('button[data-uia="player-skip-intro"]');
                 if (skipButton) {
                     log('Skip button seen, clicking..');
-                    // small delay just for visuals
-                    setTimeout(function () {
-                        try {
-                            skipButton.click();
-                        } catch (error) {
-                            warn(error);
-                        }
-                    }, 800);
                     try {
-                        skipButton.querySelector('span').innerHTML = "Skipping...";
+                        skipButton.click();
                     } catch (error) {
                         warn(error);
                     }
