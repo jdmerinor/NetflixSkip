@@ -1,8 +1,7 @@
 {
-  "manifest_version": 2,
-  "name": "NflxIntroSkip (Netflix Intro Skip)",
-  "description": "Automatically skip intros in the Netflix web-player",
-  "homepage_url": "https://github.com/gmertes/NflxIntroSkip",
+  "name": "Netflix Skip",
+  "description": "Automatically skip intros and Next episode button in the Netflix web-player",
+  "homepage_url": "https://github.com/jdmerinor/NetflixSkip",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
