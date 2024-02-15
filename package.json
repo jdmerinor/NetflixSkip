@@ -1,5 +1,5 @@
 {
-  "name": "NetflixSkip",
+  "name": "netflix-skip",
   "description": "Automatically skip intros and next episode buttons in the Netflix web-player",
   "author": "Juan Merino",
   "version": "1.0.0",
